@@ -233,7 +233,7 @@ fc e8 82 00 00 00 60 89 e5 31 c0 64 8b 50 30 8b 52 0c 8b 52 14 8b 72 28 0f b7 4a
         00000152 53              PUSH       EBX
         00000153 ff d5           CALL       EBP
 
-
+(HKLM|HKCU)\\Software(\\Policies)?\\Microsoft(\\)?(Windows|CurrentVersion|Windows Defender)(\\CurrentVersion\\Policies)?(\\)?(Real-Time Protection|MpEngine|Spynet|Features|UX Configuration|Run|Explorer)?"(\s+\S+\s+)?"(DisableBehaviorMonitoring|DisableOnAccessProtection|DisableRealtimeMonitoring|DisableScanOnRealtimeEnable|MpCloudBlockLevel|SpynetReporting|DisableAntiSpyware|SubmitSamplesConsent|TamperProtection|DisableBlockATFirstSeen|NotificationSuppress|DisableIOAVProtection|ServiceKeepAlive|SecurityHealth|AllowFastServiceStartup|HideSCAHealth|DisableNotificationCenter)"((\s+\S+\s+)?REG_DWORD(\s+\S+\s+)?"(0x)?[0-2]"(\s+\S+)?)?.*
 
 cmd.exe /C REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "HideSCAHealth" /t REG_DWORD /d 0x1 /f
 cmd.exe /C REG ADD "HKCU\Software\Policies\Microsoft\Windows\Explorer" /v "DisableNotificationCenter" /t REG_DWORD /d 0x1 /f
