@@ -258,3 +258,10 @@ cmd.exe /C reg add "HKLM\Software\Microsoft\Windows Defender\Features" /v "Tampe
 cmd.exe /C reg add "HKLM\Software\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /t REG_DWORD /d "1" /f
 cmd.exe /C reg add "HKLM\Software\Policies\Microsoft\Windows Defender\MpEngine" /v "MpCloudBlockLevel" /t REG_DWORD /d "0" /f
 cmd.exe /C reg add "HKLM\Software\Policies\Microsoft\Windows Defender\Spynet" /v "SpynetReporting" /t REG_DWORD /d "0" /f
+
+
+
+\/IM\s+sql(browser|ceip|servr|writer)\.exe
+\/IM\s+veeam\S+\.exe
+(C|D):\\\S+\s+\/grant\s+Everyone:F\s+\/T\s+\/C\s+\/Q
+Stop\s+\"(samss|veeamcatalogsvc|veeamcloudsvc|veeamdeploysvc)\"
