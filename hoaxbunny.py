@@ -22,9 +22,9 @@ from random import randint
 filterwarnings("ignore", category = DeprecationWarning)
 
 if get_system_type() == 'Linux':
-	import prompt-toolkit as global_readline
+	import readline as global_readline
 else:
-	import prompt-toolkit as global_readline
+	import readline as global_readline
 
 
 ''' Colors '''
